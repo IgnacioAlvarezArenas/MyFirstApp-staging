@@ -3,7 +3,7 @@
 End Code
 
 <div class="jumbotron">
-    <h1>NatxoStaging-PROD!!</h1>
+<h1>PRODWeb</h1>
     <p class="lead">This is my test for webapps</p>
     <p><a href="https://asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
 </div>
